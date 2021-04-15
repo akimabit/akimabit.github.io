@@ -10,7 +10,7 @@ background: '/img/posts/06.jpg'
 1. 마크 다운으로 작성하면 잘 될까?
 2. 그림 추가는 어떻게 하는 것인가?
 
-![JPA](/img/posts/test/JPA-persistence.png “JPA Persistence Context”)
+![JPA](/img/posts/test/JPA-persistence.png)
 
 ```json
 {
