@@ -11,7 +11,7 @@ permalink: pretty
 # favicon: {{site.baseurl}}/favicon.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
-#theme_color: '#eeeeee'
+theme_color: '#eeeeee'
 #fixed_navbar: top
 
 paginate: 5
