@@ -5,10 +5,10 @@ tagline: Happy Memories
 email: akimabit@gmail.com
 description: >
   Demo site
-baseurl: ""
+baseurl:
 url: "https://akimabit.github.io"
 permalink: pretty
-favicon: {{site.baseurl}}/favicon.png
+# favicon: {{site.baseurl}}/favicon.png
 gh_sponsor: chrisrhymes
 #hide_share_buttons: true
 #theme_color: '#eeeeee'
